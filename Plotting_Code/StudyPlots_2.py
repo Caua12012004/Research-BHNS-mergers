@@ -258,7 +258,7 @@ axe[1,1].annotate(strr_3,
                               fc="k", lw=2.5), zorder=20000
                           ) 
 
-plt.savefig('./ResearchFig1_test3.1.png', bbox_inches='tight', dpi = 600)
+plt.savefig('./ResearchFig1_test3.png', bbox_inches='tight', dpi = 600)
 
 plt.show()
 plt.close()
