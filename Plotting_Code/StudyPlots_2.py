@@ -182,7 +182,7 @@ axe[0,1].scatter(x=np.log10(systemic_velocities_data_BNS[0][mask_met_BNS]), y=np
 systemic_velocities_BNS = systemic_velocities_data_BNS[0]
 delay_times_BNS = delay_times_data_BNS[0]
 
-axe[0,1].scatter(x=np.log10(systemic_velocities_BNS[mask_BNS]), y=np.log10(delay_times_BNS[mask_BNS]), c='turquoise', s=9, label='Candidate BNS')
+axe[0,1].scatter(x=np.log10(systemic_velocities_BNS[mask_BNS]), y=np.log10(delay_times_BNS[mask_BNS]), c='gold', s=9, label='Candidate BNS')
 
 axe[0,1].legend(loc='lower right', fontsize = 'xx-large', markerscale=3)
 
