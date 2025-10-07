@@ -5,10 +5,10 @@ R–PROCESS ENRICHMENT OF ULTRA-FAINT DWARF GALAXIES.
 
 The FinalFigure1Plot.py and FinalCDFPlot.py files in the Plotting_code folder produce Figure 1 and 2 of the paper, respectively:
 
-[ResearchFig1_test3.3.pdf](https://github.com/user-attachments/files/22755548/ResearchFig1_test3.3.pdf)
+[Figure1.pdf](https://github.com/user-attachments/files/22755559/Figure1.pdf)
 
-[CDF_general_test_4.pdf](https://github.com/user-attachments/files/22755550/CDF_general_test_4.pdf)
+[CDF.pdf](https://github.com/user-attachments/files/22755560/CDF.pdf)
 
 The FinalRatesPlot.py file in the Plotting_Code_2 folder produces Figure 3 of the paper: 
 
-[RatesPlot_DD2_test_3.pdf](https://github.com/user-attachments/files/22755515/RatesPlot_DD2_test_3.pdf)
+[RatesPlot.pdf](https://github.com/user-attachments/files/22755564/RatesPlot.pdf)
